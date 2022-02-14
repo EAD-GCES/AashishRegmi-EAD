@@ -1,7 +1,7 @@
 
 # Assignments
 | No. | Assignment |
-| ------ | ------ | ------ | ------ |
+| ------ | ------ |
 | I. |  [Government Enterprise Architecture Framework]
 | II. |[Short Notes On Agile Methodologies]
 
