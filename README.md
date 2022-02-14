@@ -1,6 +1,6 @@
-***The following consists of lists of all EAD Assignments and Practicals.***
+
 # Assignments
-| No. | Assignment | Assigned date | Submission date |
+| No. | Assignment |
 | ------ | ------ | ------ | ------ |
 | I. |  [Government Enterprise Architecture Framework]
 | II. |[Short Notes On Agile Methodologies]
